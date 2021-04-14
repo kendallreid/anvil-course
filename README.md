@@ -1,4 +1,4 @@
-# Anvil: Web apps with nothing but Python
+# COPOL ::: Anvil: Web apps with nothing but Python
 
 Course demo code and other hand-out materials for our Anvil course.
 
